@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/mark-bell-tna/hello-world/master/tna_manifest.json",
+    "type": "Manifest",
+    "navDate": "1776-01-01T00:00:00Z",
+    "navPlace": {
+    "id":"https://127.0.0.1:3000/1012/feature",
+    "type": "FeatureCollection",
+    "features": [
+        {
+        "id": "feature1",
+        "type": "Feature",
+        "properties": {
+            "label": {
+            "en": [
+                "The National Archives, Kew"
+            ]
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.2793934,
+                51.4811031
+            ]
+        }
+        }]
+}
+}
