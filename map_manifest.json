@@ -8,7 +8,6 @@
     "label": { "en": [ "Attribution" ] },
     "value": { "en": [ "Provided by Example Organization" ] }
   },
-
   "items": [
       {
       "id": "https://mikeapp.github.io/manifest-fixtures/manifest/1012.json",
