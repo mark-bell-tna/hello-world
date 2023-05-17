@@ -2,9 +2,9 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://raw.githubusercontent.com/mark-bell-tna/hello-world/master/tna_manifest.json",
     "type": "Manifest",
-    "navDate": "1776-01-01T00:00:00Z",
+    "navDate": "1837-01-01T00:00:00Z",
     "navPlace": {
-    "id":"https://127.0.0.1:3000/1012/feature",
+    "id":"https://127.0.0.1:3000/tna/feature",
     "type": "FeatureCollection",
     "features": [
         {
@@ -20,8 +20,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -0.2793934,
-                51.4811031
+                51.4811031,
+                -0.2793934
             ]
         }
         }]
