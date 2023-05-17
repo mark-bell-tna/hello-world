@@ -4,7 +4,7 @@
   "type": "Manifest",
   "navDate": "1837-01-01T00:00:00Z",
   "navPlace": {
-    "id":"https://127.0.0.1:3000/tna/feature",
+    "id":"https://127.0.0.1:3000/1012/feature",
     "type": "FeatureCollection",
     "features": [
       {
