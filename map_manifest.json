@@ -11,7 +11,7 @@
 
   "items": [
     {
-      "id": "https://mikeapp.github.io/manifest-fixtures/manifest/1012.json",
+      "id": "https://raw.githubusercontent.com/mark-bell-tna/hello-world/master/tna_manifest.json",
       "type": "Manifest"
     }
   ]
